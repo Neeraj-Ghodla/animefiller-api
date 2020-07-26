@@ -10,5 +10,5 @@ To get a list of all animes in the database.
 https://secure-plains-19770.herokuapp.com/api/{anime name} [GET]
 To get episode information about a particular anime. The anime name should be exactly same as provided in the anime list. It is recommended that you copy the anime name from the first endpoint.
 
-# How does the api works.
+# How does the api works
 The api basically fetches data from a MongoDB database which is populated by scraping https://www.animefillerlist.com/ website.
