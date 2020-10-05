@@ -14,4 +14,4 @@ for e.g A GET request to https://animefiller.herokuapp.com/api/Naruto should giv
 
 
 # How does the api works
-The api basically fetches data from a MongoDB database which is populated by scraping https://www.animefillerlist.com/ website. The information that you get from the api should the same compared to https://www.animefillerlist.com/ website because the web scraper is run every hour to update the database of any new changes.
+The api basically fetches data from a MongoDB database which is populated by scraping https://www.animefillerlist.com/ website. The information that you get from the api should the same compared to https://www.animefillerlist.com/ website because the web scraper is run every day to update the database of any new changes.
